@@ -1,0 +1,3 @@
+﻿  Open_Video.cpp
+C:\Users\YNS\source\repos\Open_Video\Open_Video\Open_Video.cpp(11,12): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Open_Video.vcxproj -> C:\Users\YNS\source\repos\Open_Video\x64\Debug\Open_Video.exe
